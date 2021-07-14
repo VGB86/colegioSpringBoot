@@ -1,6 +1,12 @@
 
 # colegioSpringBoot
-Ejercicio práctico de un DAO con Spring Boot
+Proyecto CRUD manejado por formularios y por un servicio REST. 
+El manejo de la persistencia se hace contra una base de datos MySQL mediante Hibernate en JPA. 
+Las pantallas de la aplicación se implementarán con plantillas Thymeleaf. 
+El servicio deberá ejecutarse en un Apache Tomcat v.9 
+- Las propiedades para la conexion a la base de datosse encuentran en el archivo 'application.properties' 
+- El IDE de desarrollo empleado es Sprint Tool Suite 4.10 y se utilizó Maven para su construcción. 
+- Se entregaron dos proyectos: uno para el backend y otro para el frontend. 
 
 
 # RUTAS BACK:
